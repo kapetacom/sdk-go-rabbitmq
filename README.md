@@ -1,2 +1,3 @@
-# sdk-go-rabbitmq
-RabbitMQ support for Go
+# sdk-go-rest-server
+GO SDK for REST server related code
+
