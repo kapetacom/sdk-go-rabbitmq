@@ -17,6 +17,9 @@ func ConnectToInstance(config providers.ConfigProvider, instanceId string) (*rmq
 		return nil, fmt.Errorf("error getting instance operator: %v", err)
 	}
 	vhost, err := ensureVHost(operator, instanceId)
+	if err != nil {
+		return nil, fmt.Errorf("error ensuring vhost: %v", err)
+	}
 	return connect(operator, vhost)
 }
 
