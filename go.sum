@@ -7,8 +7,12 @@ github.com/hashicorp/go-hclog v0.9.2 h1:CG6TE5H9/JXsFWJCfoIVpKFIkFe6ysEuHirp4DxC
 github.com/hashicorp/go-hclog v0.9.2/go.mod h1:5CU+agLiy3J7N7QjHK5d05KxGsuXiQLrjA0H7acj2lQ=
 github.com/hashicorp/go-retryablehttp v0.7.5 h1:bJj+Pj19UZMIweq/iie+1u5YCdGrnxCT9yvm0e+Nd5M=
 github.com/hashicorp/go-retryablehttp v0.7.5/go.mod h1:Jy/gPYAdjqffZ/yFGCFV2doI5wjtH1ewM9u8iYVjtX8=
+github.com/kapetacom/go-rabbitmq v1.0.0 h1:3JvHheAJ8rLh+MWJ8bKpNODaEM3P30yAtYioDLdNIQ4=
+github.com/kapetacom/go-rabbitmq v1.0.0/go.mod h1:1sUJ53rrW2AIA7LEp8ymmmebHqqq8ksH/gXIfUP0I0s=
 github.com/kapetacom/schemas/packages/go v0.0.0-20240209083259-f5ce079d8abc h1:ghhXNScFqGXUP7uywvPF/dyYBcS7czmirlLcgtc0cEg=
 github.com/kapetacom/schemas/packages/go v0.0.0-20240209083259-f5ce079d8abc/go.mod h1:dWvKSUqSQRHiqFFnGPnJofgci1dvRT1PPNJLtffVukk=
+github.com/kapetacom/sdk-go-config v0.1.1 h1:BP/T8MI0FNY6OQyWkYFeHz2bJgeF0N7Ez97SB/wwLw8=
+github.com/kapetacom/sdk-go-config v0.1.1/go.mod h1:8JfwwJJc9qAACr/BPXo7lF9OZE8PL/HNeBnRqRTdMhU=
 github.com/kr/pretty v0.1.0 h1:L/CwN0zerZDmRFUapSPitk6f+Q3+0za1rQkzVuMiMFI=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
