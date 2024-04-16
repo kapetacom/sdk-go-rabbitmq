@@ -11,8 +11,8 @@ github.com/kapetacom/go-rabbitmq v1.0.0 h1:3JvHheAJ8rLh+MWJ8bKpNODaEM3P30yAtYioD
 github.com/kapetacom/go-rabbitmq v1.0.0/go.mod h1:1sUJ53rrW2AIA7LEp8ymmmebHqqq8ksH/gXIfUP0I0s=
 github.com/kapetacom/schemas/packages/go v0.0.0-20240209083259-f5ce079d8abc h1:ghhXNScFqGXUP7uywvPF/dyYBcS7czmirlLcgtc0cEg=
 github.com/kapetacom/schemas/packages/go v0.0.0-20240209083259-f5ce079d8abc/go.mod h1:dWvKSUqSQRHiqFFnGPnJofgci1dvRT1PPNJLtffVukk=
-github.com/kapetacom/sdk-go-config v0.1.1 h1:BP/T8MI0FNY6OQyWkYFeHz2bJgeF0N7Ez97SB/wwLw8=
-github.com/kapetacom/sdk-go-config v0.1.1/go.mod h1:8JfwwJJc9qAACr/BPXo7lF9OZE8PL/HNeBnRqRTdMhU=
+github.com/kapetacom/sdk-go-config v1.0.0 h1:2Kjn1CBdeTH3sJfUHvEyaXODyLuKv1WwK8xRnoyZAbA=
+github.com/kapetacom/sdk-go-config v1.0.0/go.mod h1:ayxOGlxQ4Cz1OQi3JnaleDd7H0lknyl9xr9bSUIeHlM=
 github.com/kr/pretty v0.1.0 h1:L/CwN0zerZDmRFUapSPitk6f+Q3+0za1rQkzVuMiMFI=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
